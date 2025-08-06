@@ -1,6 +1,6 @@
 # C++ Algorithms Journey 🚀
 
-This repository contains over 350 algorithm problems that I solved using C++ during my first year of learning programming.
+This repository contains over 450 algorithm problems that I solved using C++ during my first year of learning programming.
 
 Throughout this journey, I practiced a wide variety of problems to strengthen my understanding of:
 - Algorithms
